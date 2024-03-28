@@ -7,4 +7,7 @@ We combine sliding window operations with the signature transform [1] to create 
 # Data
 
 -   Anomalies in maritime data (ship trajectories): <https://avires.dimi.uniud.it/papers/trclust/> (`dataset2.zip`)
+-   Unsupervised Anomaly Detection Benchmark: <https://doi.org/10.7910/DVN/OPQMVF> [2]
 -   NB: this code can be applied to any dataset of time series.
+
+[2] Goldstein, Markus, 2015, "Unsupervised Anomaly Detection Benchmark", Harvard Dataverse
