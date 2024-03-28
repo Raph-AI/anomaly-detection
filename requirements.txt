@@ -1,0 +1,5 @@
+numpy==1.24.4
+matplotlib==3.5.2
+scikit-learn==1.3.2
+dtaidistance==2.3.10
+iisignature==0.24
