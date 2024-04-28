@@ -1,8 +1,10 @@
 # Anomaly detection using multiscale signatures
 
-We combine sliding window operations with the signature transform [1] to create a set of insightful features of time series. Then, this set of features is injected in anomaly detection methods, namely, Local Outlier Factor (LOF) and One-Class SVM (OCSVM).
+We combine sliding window operations with the signature transform to create a set of insightful features of time series. Then, this set of features is injected in anomaly detection methods, namely, Local Outlier Factor (LOF) and One-Class SVM (OCSVM). For an introduction to the signature method in Machine Learning, see <https://arxiv.org/abs/2206.14674> (Lyons and McLeod, 2024).
 
-[1] <https://arxiv.org/abs/1603.03788>
+# Link to publication
+
+Available soon.
 
 # Data
 
