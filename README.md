@@ -4,11 +4,22 @@ We combine sliding window operations with the signature transform to create a se
 
 # Link to publication
 
-Available soon.
+R. Mignot, V. Mange, K. Usevich, M. Clausel, J.-Y. Tourneret and F. Vincent, "Anomaly Detection Using Multiscale Signatures". In: Proceedings EUSIPCO 2024. <https://doi.org/10.23919/EUSIPCO63174.2024.10714963> (pdf [here](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002757.pdf))
+
+```
+@inproceedings{mignot2024anomaly,
+author={Mignot, Raphael and Mang{\' e}, Val{\' e}rian and Usevich, Konstantin and Clausel, Marianne and Tourneret, Jean–Yves and Vincent, Fran{\c c}ois},
+title={Anomaly Detection Using Multiscale Signatures},
+year={2024},
+booktitle={Proceedings of the 32nd European Signal Processing Conference (EUSIPCO)}, 
+pages={2757--2761},
+location={Lyon, France},
+doi={10.23919/EUSIPCO63174.2024.10714963}}
+```
 
 # Data
 
--   Anomalies in maritime data (ship trajectories): <https://avires.dimi.uniud.it/papers/trclust/> (`dataset2.zip`)
+-   Anomalies in maritime data (ship trajectories): <https://avires.dimi.uniud.it/papers/trclust/> (we use `dataset2.zip`)
 -   Unsupervised Anomaly Detection Benchmark: <https://doi.org/10.7910/DVN/OPQMVF> [2]
 -   NB: this code can be applied to any dataset of time series.
 
